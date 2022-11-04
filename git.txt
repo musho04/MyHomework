@@ -1,0 +1,51 @@
+1----------------------------
+mkdir ITC2
+cd ITC2
+git init
+git config --local user.name Mushegh Esayan
+git config --local user.email mushegh.esayan.im@gmail.com
+git config --local core.editor vim
+
+2----------------------------
+echo > test
+git add .
+git commit -m "start homework
+git branch Mushegh
+git checkout Mushegh
+vim hello.sh
+#!/bin/bash/
+
+echo 'hiii'
+
+:wq
+
+3-----------------------------
+create repazitorian in guthub
+
+git remote add origin https://github.com/musho04/MyHomework.git
+vim .git/config
+added my token
+
+4-----------------------------
+git push -u origin master
+git checkout Mushegh
+git add hello.sh
+git commit -m "myProgram"
+git push -u origin Mushegh
+
+5-----------------------------
+git tag materV1
+git push origin masterV1
+
+6-----------------------------
+scrinshot
+
+7----------------------------
+cd .git/hooks
+mv pre-commit.sample pre-commit
+srinshot from linkkkkkkkk
+
+echo aaaa > test
+git add test
+git commit -m "Changes files"
+
