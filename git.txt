@@ -38,12 +38,14 @@ git tag materV1
 git push origin masterV1
 
 6-----------------------------
-scrinshot
+
+image bellow
 
 7----------------------------
 cd .git/hooks
 mv pre-commit.sample pre-commit
-srinshot from linkkkkkkkk
+
+image bellow
 
 echo aaaa > test
 git add test
