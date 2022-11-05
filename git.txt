@@ -49,5 +49,6 @@ image bellow
 
 echo aaaa > test
 git add test
-git commit -m "Changes files"
+git commit 
+ls              #new file` File
 
