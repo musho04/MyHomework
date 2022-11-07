@@ -7,7 +7,8 @@ int add ( int a, int b ) {
 };
 
 //Max and Min
-int maxmin ( int a , int b ){
+int maxmin ( int a , int b )
+{
     //max a, min b
     if ( a > b ){
         std::cout << "Min: " << b << std::endl;
@@ -15,8 +16,8 @@ int maxmin ( int a , int b ){
     }else if ( a < b ){ //Max b, min a
         std::cout << "Min: " << a << std::endl;
         std::cout << "Max: " << b << std::endl;
-    }else {
-        std::cout << "a = b" << std::endl; //If a = b
+    }else {//If a = b
+        std::cout << "a = b" << std::endl;     
     }
     return 0;
 };
