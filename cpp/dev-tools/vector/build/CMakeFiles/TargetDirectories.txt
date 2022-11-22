@@ -1,0 +1,3 @@
+/home/mushex/mobile2/work/cmakefile/vector/build/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/work/cmakefile/vector/build/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/work/cmakefile/vector/build/CMakeFiles/MyApp.dir

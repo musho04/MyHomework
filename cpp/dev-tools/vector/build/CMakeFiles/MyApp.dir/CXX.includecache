@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/vector.h
+
+/home/mushex/mobile2/work/cmakefile/vector/src/main.cpp
+iostream
+-
+vector.h
+/home/mushex/mobile2/work/cmakefile/vector/src/vector.h
+
