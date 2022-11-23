@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libmul.so -o libmul.so CMakeFiles/mul.dir/src/mul.cpp.o 

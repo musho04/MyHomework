@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sum/include/sum.h
+
+/home/mushex/mobile2/c++/cpp/home_work_calc/sum/src/sum.cpp
+sum.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/sum/src/sum.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myApp.dir/src/main.cpp.o  -o myApp  -Wl,-rpath,/home/mushex/mobile2/c++/cpp/home_work_calc/build/sum:/home/mushex/mobile2/c++/cpp/home_work_calc/build/sub:/home/mushex/mobile2/c++/cpp/home_work_calc/build/sep:/home/mushex/mobile2/c++/cpp/home_work_calc/build/mul sum/libsum.so sub/libsub.so sep/libdiv.so mul/libmul.so 

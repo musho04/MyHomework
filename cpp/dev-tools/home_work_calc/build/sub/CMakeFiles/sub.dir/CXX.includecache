@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sub/include/sub.h
+
+/home/mushex/mobile2/c++/cpp/home_work_calc/sub/src/sub.cpp
+sub.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/sub/src/sub.h
+

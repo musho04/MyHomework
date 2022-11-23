@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../mul/include/mul.h
+
+/home/mushex/mobile2/c++/cpp/home_work_calc/mul/src/mul.cpp
+mul.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/mul/src/mul.h
+

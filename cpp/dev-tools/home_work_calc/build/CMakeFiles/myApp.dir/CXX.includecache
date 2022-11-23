@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mul.h
+
+../include/sep.h
+
+../include/sub.h
+
+../include/sum.h
+
+/home/mushex/mobile2/c++/cpp/home_work_calc/src/main.cpp
+iostream
+-
+sub.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/src/sub.h
+sum.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/src/sum.h
+sep.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/src/sep.h
+mul.h
+/home/mushex/mobile2/c++/cpp/home_work_calc/src/mul.h
+vector
+-
+string
+-
+bits/stdc++.h
+-
+

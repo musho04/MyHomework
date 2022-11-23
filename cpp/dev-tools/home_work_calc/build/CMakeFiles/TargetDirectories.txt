@@ -1,0 +1,15 @@
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/CMakeFiles/myApp.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sum/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sum/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sum/CMakeFiles/sum.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sub/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sub/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sub/CMakeFiles/sub.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sep/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sep/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/sep/CMakeFiles/div.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/mul/CMakeFiles/rebuild_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/mul/CMakeFiles/edit_cache.dir
+/home/mushex/mobile2/c++/cpp/home_work_calc/build/mul/CMakeFiles/mul.dir

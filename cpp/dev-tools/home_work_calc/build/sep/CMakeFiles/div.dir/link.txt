@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libdiv.so -o libdiv.so CMakeFiles/div.dir/src/sep.cpp.o 

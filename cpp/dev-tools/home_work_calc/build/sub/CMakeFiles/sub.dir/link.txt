@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libsub.so -o libsub.so CMakeFiles/sub.dir/src/sub.cpp.o 
